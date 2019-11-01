@@ -3059,7 +3059,6 @@ snrcdn.net
 analytics.ccs.mcafee.com
 analyticsdcs.ccs.mcafee.com
 facemap.foldlife.net
-www.msftconnecttest.com
 www.msftncsi.com
 static.sitesbi.com
 4b6994dfa47cee4.com
